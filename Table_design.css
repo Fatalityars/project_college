@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(224, 236, 232);
+}
+nav {
+    background-color: rgb(197, 238, 238);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+a {
+    text-decoration: none;
+}
+a h3 {
+    color: rgb(37, 4, 4);
+}
+a:hover h3 {
+    color: rgb(179, 14, 14);
+}
+h2 {
+    text-decoration: underline;
+    color: rgb(17, 32, 9);
+}
+table {
+    background-color: rgb(175, 207, 236);
+}
+.bold {
+    color: rgb(59, 2, 2);
+}
+.smal {
+    color: rgb(6, 6, 88);
+}
+.leav {
+    color: rgb(6, 6, 88);
+    background-color: rgb(219, 146, 146);
+}
