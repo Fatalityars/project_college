@@ -1,3 +1,8 @@
+* {
+    margin: 2px;
+    padding: 5px;
+    box-sizing: border-box;
+}
 body {
     background-color: rgb(224, 236, 232);
 }
