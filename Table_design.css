@@ -24,6 +24,9 @@ h2 {
 table {
     background-color: rgb(175, 207, 236);
 }
+tr:hover {
+    background-color: rgb(156, 196, 233);
+}
 .bold {
     color: rgb(59, 2, 2);
 }
