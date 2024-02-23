@@ -19,7 +19,7 @@ nav ul li a {
     color: rgb(37, 4, 4);
 }
 ul {
-    padding-left: 70%;
+    padding-left: 65%;
     display: flex;
 }
 a:hover h3 {
